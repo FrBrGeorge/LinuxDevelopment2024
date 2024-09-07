@@ -1,2 +1,2 @@
-# LinuxDevelopment2023
-Suppelmental repo for https://uneex.org/LecturesCMC/LinuxApplicationDevelopment2023
+# LinuxDevelopment2024
+Suppelmental repo for https://uneex.org/LecturesCMC/LinuxApplicationDevelopment2024
